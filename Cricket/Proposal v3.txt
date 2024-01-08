@@ -1,0 +1,42 @@
+Problem:
+========
+Nova Scotia Cricket Association (NSCA) is a Provincial Sport Organization (PSO) for cricket run by volunteers. Cricket is a sport played by a large number of immigrants especially from India, Australia, Pakistan, Bangladesh, Sri Lanka, England, New Zealand and South Africa. NSCA organizes cricket leagues and events throughout the year with an aim to develop cricket in Nova Scotia. 
+
+To help with its functioning, NSCA already has a web presence (cricketnovascotia.ca) as well as an active Facebook page. However, the current website provides limited functionality with respect to the functioning of NSCA as it is mainly focused on cricket matches and its live scoring provided by an external application (cricheroes.in). We are creating a website based on a database that enables us to support our other functions like member registrations (as opposed to just player registrations), development activities, workshops and events.
+
+The database for this website was created by a prior student group who also created the structure of the website and completed some work related to registration. In this next phase of the project we need the front-end to be completed. 
+
+Desired Outcome:
+================
+The database design and script for the website is available. Minor fixes may be needed.
+
+Following work was started and is in various stages of completion:
+- Database 
+- Sitemap 
+- Login and Register 
+- Member Profile Page 
+- News and News submission Page 
+In addition, template webpages for ALL website are provided in the sitemap. 
+
+Work requested includes:
+- Completion of (partially available) Administrative Console that allows a non-programmer (Admin) to manage the website and its data 
+- Email Functionality that allows Admin to contact all members by teams, by roles, by clubs, by subcommittee, by development programs or individually.
+- Provide a contact us page to allow members of the public to send us a message, and a means for our Admin to reply to those messages.
+- provide our member cricket clubs (functioning under NSCA) with a central place to manage their players.
+- link to CricClubs that contains our player statistics and provide a means to import yearly and series-by-series statistics to our database. 
+- allows the admin to post the news and alerts created on the website to our social media sources (currently Facebook and Twitter).
+- setup the website on our web-servers.
+
+Level of Interaction and input:
+===============================
+- We want to build on the existing software and can walk the development team through the existing design and code. We will also provide clarification on our organizational processes as required. 
+
+Tests:
+======
+- The website is deployed on our web-servers hosted by WHC.ca
+- All the functionality requested above is available and working.
+
+Sample data:
+============
+- Database ERD is available and will be shared and explained. 
+- Database generation script along with some test data will be provided.
